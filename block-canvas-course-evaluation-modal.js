@@ -6,6 +6,7 @@
 // @author       Nikolas Knickrehm
 // @match        https://frankfurtschool.instructure.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=instructure.com
+// @updateURL    https://github.com/nknickrehm/block-canvas-course-evaluation/raw/main/block-canvas-course-evaluation-modal.js
 // @grant        none
 // ==/UserScript==
 

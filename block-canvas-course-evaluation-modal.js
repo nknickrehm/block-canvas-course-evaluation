@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Remove Course Evaluation Modal
-// @namespace    https://knickrehm.dev
-// @version      0.9
-// @description  Remove the annoying modal in Canvas blocking you from accessing other sections of the website
+// @namespace    https://knickrehm.dev/
+// @version      1.0
+// @description  Removes the annoying course banner
 // @author       Nikolas Knickrehm
-// @include      /.*frankfurtschool\.instructure\.com.*/
+// @match        https://frankfurtschool.instructure.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=instructure.com
 // @grant        none
 // ==/UserScript==
